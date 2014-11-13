@@ -1,6 +1,28 @@
 /* Your Website Styles */
 
 
+body {
+	font-family: 'Lato', sans-serif;
+	background: url("../img/squared_metal.png");
+	color: #2A4F67;
+}
+
+
+
+h3 {
+	color: #058BA6;
+	font-size: 30px;
+}
+
+#text {
+	color: #0F3335;
+	font-size: 24px;
+	color: #2A4F67;
+}
+
+
+
+
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
